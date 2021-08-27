@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'AnotherDay';
+    src: url('AnotherDay.woff');
+}
+h1{
+   color: red;
+   background: yellow;
+   font-size: 400%;
+   font-family: 'AnotherDay';
+   text-align: center;
+   margin: auto;
+   border: 5px solid darkorange;
+   font-style: oblique;
+   font-weight: 100;
+   font-stretch: ultra-expanded;
+   border-radius: 25px;
+}
+body{
+   background-image: url("https://i.pinimg.com/736x/7c/b1/86/7cb18679659f791b1191bea97b74dfc0.jpg");
+   background-repeat: repeat;
+   background-size: contain;
+}
+h2{
+   color: darkorange;
+   font-size: 200%;
+   text-decoration-line:underline;
+}
+.cb{ 
+    color: white;
+    margin: auto;
+    font-size: 150%;
+}
+img{ 
+    float:right;
+    margin-right:500px;
+    width:400px;
+    height: 200px;   
+}
+input{
+      margin-left: 5px;
+}
